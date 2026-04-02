@@ -76,10 +76,17 @@ Community members can flag suspicious reports
 
 Repeated fake reports result in permanent account ban
 Banned user IDs are stored in Firebase and cannot create new accounts with the same Google account
+
 📬 Contact
+
 Sayan — Founder & CEO, Sayanox Private Limited
+
 📧 sm6881164@gmail.com
+
 🌐 sayanox-website.vercel.app
-📄 License
+
+📄 Apachi License
+
 © 2025 Sayanox Private Limited. All rights reserved.
+
 Built with ❤️ by Sayan.
